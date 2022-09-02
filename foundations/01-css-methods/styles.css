@@ -1,6 +1,9 @@
 /* styles.css */
 
 div {
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
     color: white;
     background-color: red;
 }
