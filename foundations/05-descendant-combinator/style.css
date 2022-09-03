@@ -1,0 +1,11 @@
+div>p {
+    background-color: yellow;
+    text-align: center;
+    color: red;
+}
+
+div>p.text {
+    background-color: yellow;
+    text-align: center;
+    color: red;
+}
